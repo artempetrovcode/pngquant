@@ -2,6 +2,7 @@
 ** © 2019 by Kornel Lesiński.
 **
 ** See COPYRIGHT file for license.
+** 1
 */
 
 extern crate libpng_sys;
